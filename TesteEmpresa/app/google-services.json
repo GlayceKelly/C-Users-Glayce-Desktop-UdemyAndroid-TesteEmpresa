@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604018492368",
+    "firebase_url": "https://teste-empresa.firebaseio.com",
+    "project_id": "teste-empresa",
+    "storage_bucket": "teste-empresa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604018492368:android:b387226e35715e4e6eafd5",
+        "android_client_info": {
+          "package_name": "com.example.glayce.testeempresa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604018492368-1edjt56gmo55b8924ineh6m9i3ifefc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.glayce.testeempresa",
+            "certificate_hash": "a2b3ac5f6d6b66836a3930543a49527864d4395a"
+          }
+        },
+        {
+          "client_id": "604018492368-dfeqf7lcq96d8gkbogm89n968tsktbgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8pq_qm6hpBsyIQFxQetEIKYucEOf74A4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604018492368-dfeqf7lcq96d8gkbogm89n968tsktbgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
